@@ -12,6 +12,6 @@
 <br>
 📌 Tech Stack:
 
-📊 MS Excel – Dashboard, Pivot Tables, Data Visualization
-🗄️ MS SQL Server – Database management & querying
+📊 MS Excel – Dashboard, Pivot Tables, Data Visualization<br>
+🗄️ MS SQL Server – Database management & querying<br>
 📑 Power Query – Data cleaning and transformation
